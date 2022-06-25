@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Mage Nuggets
+## Author: B-Buck, Apolexis
+## Version: 1.87
+## Notes: Mage Nuggets — это аддон для кастеров со множеством полезных фич, облегчающих жизнь.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: MageNugz
+embeds.xml
+Localization\MNLocale-enUS.lua
+Localization\MNLocale-ruRU.lua
+magenuggets.xml
